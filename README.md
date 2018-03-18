@@ -17,4 +17,4 @@ var correctLoc;var size=3;var state=1;var stop=!1;function sleep(ms){return new 
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details
 
-Created August 2017 by Daniel Apushkinsky
+Created March 2018 by Daniel Apushkinsky
